@@ -1,0 +1,5 @@
+package gamestate
+
+class GameState {
+
+}
